@@ -84,7 +84,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/lispad/yaml"
+	"github.com/WinnerSoftLab/yaml3"
 )
 
 type T struct {
